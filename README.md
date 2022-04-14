@@ -1,6 +1,6 @@
 ### Olá eu sou o Vinicius Xavier 👋
 
-- 🌱 Eu estou estudando para se tornar um desenvolvedor java full stack jr em [generation] (https://brazil.generation.org/)
+- 🌱 Eu estou estudando para se tornar um desenvolvedor java full stack jr em [generation](https://brazil.generation.org/)
 - 📫 How to reach me: viniciusxaviersouza11@gmail.com
 - 😄 Pronouns: ele/dele/he
 
