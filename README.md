@@ -1,4 +1,6 @@
-### Olá eu sou o Vinicius Xavier 👋:raised_hand_with_fingers_splayed:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1419ff&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1419ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Vinicius+Xavier;Eu+tenho+21+anos;Eu+sou+do+Brasil;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 - 📚 Atualmente estou cursando Tecnologia em Análise e desenvolvimento de sistemas pela [Universidade Nove de Julho](https://www.uninove.br/):computer:
 - 🎓 Eu sou formado como desenvolvedor java full stack jr pela [generation](https://brazil.generation.org/)
@@ -6,26 +8,26 @@
 - 📫 How to reach me: viniciusxaviersouza11@gmail.com
 - 😄 Pronouns: ele/dele/he
 
-<div align="center">
+  <div align="center">
   
   ## Minhas estatísticas :point_down:
   
   </div>
   
+
   
-<div align="center">
+<div>
   <a href="https://github.com/ViniciusSXavier999">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniciusSXavier999&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSXavier999&layout=compact&langs_count=16&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSXavier999&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSXavier999&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
-<div align="center">
   
- ## Minhas Habilidades :computer:
-  
-  </div>
-  <div align="center">                                               
+ 
+ <div  align="center"> 
   <div style="display: inline_block"><br>
-  <img align="center" alt="java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="left" height="240" alt="coding-time" src="code.gif">
+    <h2 align="center">  Minhas Habilidades :computer: </h2>
+    <img align="center" alt="java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,8 +37,9 @@
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   
-</div>
+   </div>
   </div>
+  
   
   <div align="center">
    
@@ -57,4 +60,6 @@
    ![Snake animation](https://github.com/ViniciusSXavier999/ViniciusSXavier999/blob/output/github-contribution-grid-snake.svg)
       
   </div>  
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1419ff&height=120&section=footer"/>
     
